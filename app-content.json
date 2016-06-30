@@ -1,0 +1,975 @@
+{
+  "resource": {
+    "categories": [{
+      "-name": "waiver",
+      "-fullname": "Waiver Qualifying Buprenorphine Training",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "opioid",
+        "title": "DATA 2000 8-Hour Waiver-Qualifying Buprenorphine Training ",
+        "link": "http://www.samhsa.gov/medication-assisted-treatment/training-resources/buprenorphine-physician-training",
+        "description": "A list of SAMHSA-supported CME courses that can help physicians qualify to prescribe buprenorphine in an office setting."
+      }
+    }, {
+      "-name": "waiver",
+      "-fullname": "Waiver Qualifying Buprenorphine Training",
+      "metadata": {
+        "_pubid": "",
+        "type": "video",
+        "tag": "opioid",
+        "title": "How To Fill Out Your NOI Form",
+        "link": "https://www.youtube.com/watch?v=4Qxu5q-OSPI&feature=youtu.be?o=U&noapp=1",
+        "description": "A quick tutorial on how to fill out an NOI form for a buprenorphine waiver."
+      }
+    }, {
+      "-name": "ce",
+      "-fullname": "Continuing Medical Education",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "opioid",
+        "title": "Opioid Prescribing Courses for Health Care Providers",
+        "link": "http://www.samhsa.gov/medication-assisted-treatment/training-resources/opioid-courses",
+        "description": "SAMHSA-supported CME courses on prescribing opioids for chronic pain."
+      }
+    }, {
+      "-name": "ce",
+      "-fullname": "Continuing Medical Education",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "opioid",
+        "title": "Providers’ Clinical Support System for Opioid Therapies (PCSS-O) Webinar Series",
+        "reference": "American Society for Pain Management Nursing",
+        "link": "http://pcss-o.org/",
+        "description": "A SAMHSA-supported series that addresses the current state of opioid use disorder, treatment issues for special populations, and assessment and treatment of patients."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA16-4938",
+        "type": "pdf",
+        "tag": "opioid",
+        "title": "Advisory: Sublingual and Transmucosal Buprenorphine for Opioid Use Disorder: Review and Update",
+        "link": "http://store.samhsa.gov/shin/content//SMA16-4938/SMA16-4938.pdf",
+        "description": "Gives an overview of data on the use of sublingual and transmucosal buprenorphine for MAT for opioid use disorder."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA14-4892R",
+        "type": "pdf",
+        "tag": "opioid",
+        "title": "Clinical Use of Extended-Release Injectable Naltrexone in the Treatment of Opioid Use Disorder: A Brief Guide",
+        "link": "http://store.samhsa.gov/shin/content//SMA14-4892R/SMA14-4892R.pdf",
+        "description": "Offers guidance on the use of MAT with extended-release injectable naltrexone for the treatment of an opioid use disorder."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "PEP15-FEDGUIDEOTP",
+        "type": "pdf",
+        "tag": "opioid",
+        "title": "Federal Guidelines for Opioid Treatment Programs (PEP15-FEDGUIDEOTP)",
+        "link": "http://store.samhsa.gov/shin/content/OTPPEP15-FEDGUIDE/PEP15-FEDGUIDEOTP.pdf",
+        "description": "Provides fact sheets and tools for media outreach and education on methadone and other MAT for opioid use disorders."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "",
+        "type": "video",
+        "tag": "opioid",
+        "title": "Innovative Practices in Medication-Assisted Treatment and Primary Care Coordination (Webinar)",
+        "link": "https://www.youtube.com/watch?v=-4Bm3vE7DH0?o=U&noapp=1",
+        "description": "Showcases two approaches to care in which MAT is provided and care for individuals with substance use disorders is integrated with regular medical care."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA16-4892PG",
+        "type": "web",
+        "tag": "opioid",
+        "title": "Medication-Assisted Treatment of Opioid Use Disorder Pocket Guide",
+        "link": "http://store.samhsa.gov/product/SMA16-4892PG",
+        "description": "Offers guidelines for MAT for opioid misuse at a glance."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "title": "Pharmacologic Guidelines for Treating Individuals With Post-Traumatic Stress Disorder and Co-Occurring Opioid Use Disorders",
+        "_pubid": "",
+        "type": "pdf",
+        "tag": "opioid",
+        "title": "Pharmacologic Guidelines for Treating Individuals With Post-Traumatic Stress Disorder and Co-Occurring Opioid Use Disorders",
+        "link": "http://media.samhsa.gov/co-occurring/docs/Pharm_Guidelines_508.pdf",
+        "description": "Offers guidelines for MAT for individuals, particularly veterans, with post-traumatic stress disorder and co-occurring opioid use disorders."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA09-4376",
+        "type": "pdf",
+        "tag": "opioid",
+        "title": "TAP 30: Buprenorphine: A Guide for Nurses",
+        "link": "http://buprenorphine.samhsa.gov/TAP_30_Certified.pdf",
+        "description": "Gives nurses information about screening, assessment, supervised withdrawal, and maintenance treatment with buprenorphine for MAT for opioids."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA07-3939",
+        "type": "pdf, web",
+        "tag": "opioid",
+        "title": "TIP 40: Clinical Guidelines for the Use of Buprenorphine in the Treatment of Opioid Addiction",
+        "link": "http://www.ncbi.nlm.nih.gov/books/NBK64245/pdf/Bookshelf_NBK64245.pdf, http://www.ncbi.nlm.nih.gov/books/NBK64245/",
+        "description": "Offers clinicians information on medications for opioid use disorder treatment, including side effects, drug interactions, and take-home doses."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA12-4214",
+        "type": "pdf, web",
+        "tag": "opioid",
+        "title": "TIP 43: Medication-Assisted Treatment for Opioid Addiction in Opioid Treatment Programs",
+        "link": "http://store.samhsa.gov/shin/content//SMA12-4214/SMA12-4214.pdf",
+        "description": "Gives a detailed description of MAT for addiction to opioids, and discusses screening, assessment, and administrative and ethical issues."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "SMA14-4852",
+        "type": "pdf",
+        "tag": "opioid",
+        "title": "Adult Drug Courts and Medication-Assisted Treatment for Opioid Dependence: In Brief",
+        "link": "http://store.samhsa.gov/shin/content/SMA14-4852/SMA14-4852.pdf",
+        "description": "Highlights the use of MAT for opioid use disorder, including methadone, buprenorphine, and naltrexone, and the use of MAT for drug court programs."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "SMA09-4413",
+        "type": "web",
+        "tag": "opioid",
+        "title": "Follow Directions: How To Use Methadone Safely",
+        "link": "http://store.samhsa.gov/product/Follow-Directions-How-to-Use-Methadone-Safely/SMA09-4409",
+        "description": "Describes how to use methadone for the treatment of heroin or other opioid use disorders safely, and discusses methadone overdose and life-threatening side effects."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "SMA14-4124",
+        "type": "pdf",
+        "tag": "opioid",
+        "title": "Methadone Treatment for Pregnant Women",
+        "link": "http://store.samhsa.gov/shin/content//SMA14-4124/SMA14-4124.pdf",
+        "description": "Urges pregnant women with heroin or opioid prescription drug use disorders to seek methadone maintenance treatment."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "SMA14-4443",
+        "type": "pdf",
+        "tag": "opioid",
+        "title": "Medication-Assisted Treatment for Opioid Addiction: Facts for Families and Friends",
+        "link": "http://store.samhsa.gov/shin/content/SMA14-4443/SMA14-4443.pdf",
+        "description": "Describes opioid medications, their proper use and side effects, withdrawal symptoms, and how medications combine with counseling in the recovery process."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "F038",
+        "type": "web",
+        "tag": "opioid",
+        "title": "Medication-Assisted Treatment for the 21st Century: Community Education Kit",
+        "link": "http://store.samhsa.gov/product/Medication-Assisted-Treatment-for-the-21st-Century/F038",
+        "description": "Includes tools for media outreach and for education and public relations efforts to reduce stigma and gain support within the community and treatment facilities."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "SMA16-4742",
+        "type": "pdf",
+        "tag": "opioid, naloxone",
+        "title": "Opioid Overdose Prevention Toolkit (Updated 2016)",
+        "link": "http://store.samhsa.gov/shin/content/SMA16-4742/SMA16-4742.pdf",
+        "description": "Offers tools to develop policies and practices for first responders, treatment practitioners, and others to help prevent opioid-related overdoses and deaths."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "SMA09-4449",
+        "type": "pdf",
+        "tag": "opioid",
+        "title": "Rights for Individuals on Medication-Assisted Treatment: Are you in Recovery? Know Your Rights",
+        "link": "http://www.samhsa.gov/sites/default/files/partnersforrecovery/docs/Know_Your_Rights_Brochure_0110.pdf",
+        "description": "Explains patient rights and the federal laws that protect people receiving MAT for opioid use disorder."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "SMA14-4444",
+        "type": "pdf",
+        "tag": "opioid",
+        "title": "The Facts about Naltrexone for Treatment of Opioid Addiction",
+        "link": "http://store.samhsa.gov/shin/content//SMA12-4444/SMA12-4444.pdf",
+        "description": "Gives patients information on naltrexone and medication-assisted treatment for opioid addiction. Describes addiction and withdrawal, how naltrexone works, its proper use, its side effects, and how it fits with counseling in the recovery process."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "PHD860",
+        "type": "pdf",
+        "tag": "opioid",
+        "title": "Tips for Teens: The Truth About Heroin",
+        "link": "http://store.samhsa.gov/shin/content//PHD860/PHD860.pdf",
+        "description": "Informs teens about the dangers of heroin, including short- and long-term health risks and ways the drug affects the brain."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "video",
+        "tag": "opioid",
+        "title": "Prison & Jail Medication-Assisted Treatment (MAT) Training Video",
+        "link": "https://www.youtube.com/watch?v=ErNdg8T7DBI?o=U&noapp=1",
+        "description": "Focuses on groundbreaking MAT programs for people who are incarcerated in Massachusetts, Missouri, and Pennsylvania."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA16-4742",
+        "type": "pdf",
+        "tag": "naloxone",
+        "title": "Opioid Overdose Prevention Toolkit (Updated 2016)",
+        "link": "http://store.samhsa.gov/shin/content//SMA16-4742/SMA16-4742.pdf",
+        "description": "Offers tools to develop policies and practices for first responders, treatment practitioners, and others to help prevent opioid-related overdoses and deaths."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA16-4742",
+        "type": "web",
+        "tag": "naloxone",
+        "title": "Easy to do Harm Reduction and Naloxone but Naltrexone is Another Cup of Tea (PDF & PPT)",
+        "link": "http://pcss-o.org/event/easy-to-do-harm-reduction-and-naloxone-but-naltrexone-is-another-cup-of-tea/",
+        "description": "Explores the role of discussion of opioid overdose and provision of naloxone in clinical practice and reviews evidence for the intervention."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA16-4742",
+        "type": "pdf",
+        "tag": "naloxone",
+        "title": "Facts for Community Members",
+        "link": "http://store.samhsa.gov/shin/content//SMA16-4742/FiveEssentialStepsforFirstResponders.pdf",
+        "description": "Describes the scope of the opioid overdose crisis and discusses strategies communities can implement to prevent overdose-related deaths."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA16-4742",
+        "type": "pdf",
+        "tag": "naloxone",
+        "title": "Five Essential Steps for First Responders",
+        "link": "http://store.samhsa.gov/shin/content//SMA16-4742/FiveEssentialStepsforFirstResponders.pdf",
+        "description": "Explains five essential steps first responders should take to reduce the number of deaths resulting from opioid overdoses."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA16-4742",
+        "type": "pdf",
+        "tag": "naloxone",
+        "title": "Information for Prescribers",
+        "link": "http://store.samhsa.gov/shin/content//SMA16-4742/InformationforPrescribers.pdf",
+        "description": "Presents clinical practices health care practitioners should follow in prescribing opioid analgesics and monitoring patients’ response."
+      }
+    }, {
+      "-name": "communities",
+      "-fullname": "Resources for Communities, Survivors, and Families",
+      "metadata": {
+        "_pubid": "SMA16-4742",
+        "type": "pdf",
+        "tag": "naloxone",
+        "title": "Recovering From Opioid Overdose – Resources for Overdose Survivors & Family Members",
+        "link": "http://store.samhsa.gov/shin/content//SMA16-4742/RecoveringfromOpioidOverdose.pdf",
+        "description": "Offers people who have survived an opioid overdose and their families suggestions for how to find connections and a support network through the recovery process."
+      }
+    }, {
+      "-name": "communities",
+      "-fullname": "Resources for Communities, Survivors, and Families",
+      "metadata": {
+        "_pubid": "SMA16-4742",
+        "type": "pdf",
+        "tag": "naloxone",
+        "title": "Safety Advice for Patients & Family Members",
+        "link": "http://store.samhsa.gov/shin/content//SMA16-4742/SafetyAdviceforPatientsAndFamilyMembers.pdf",
+        "description": "Explains what opioids are, how to prevent overdose, what to do if an overdose is suspected, and how to administer naloxone."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "naloxone",
+        "title": "Centers for Disease Control and Prevention",
+        "link": "http://www.cdc.gov/drugoverdose/epidemic",
+        "description": "Offers basic information about the opioid epidemic, associated risk factors, and overdose-related statistics."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "naloxone",
+        "title": "National Institutes of Health, National Center for Biotechnical Information:",
+        "link": "http://www.ncbi.nlm.nih.gov",
+        "description": "Offers evidence-based resources and databases of published literature on genomic, genetic, and biomedical research."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "naloxone",
+        "title": "National Institute on Drug Abuse",
+        "link": "https://www.drugabuse.gov",
+        "description": "Advances the science on the causes and consequences of drug use and addiction and applies that knowledge to improve individual and public health."
+      }
+    }, {
+      "-name": "ce",
+      "-fullname": "Continuing Medical Education",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "Knowledge Application Program (KAP)",
+        "link": "https://kap-elearning.samhsa.gov/",
+        "description": "SAMHSA’s CSAT online CEs for substance abuse treatment professionals to provide professional growth and the CE hours needed to maintain certification or licensure."
+      }
+    }, {
+      "-name": "ce",
+      "-fullname": "Continuing Medical Education",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "CME/CNE/CE – Substance Use in Adults and Adolescents: Screening, Brief Intervention, and Referral to Treatment (SBIRT)",
+        "link": "http://samhsa.gov/sbirt",
+        "description": "SBIRT is an approach that delivers early intervention and treatment for people with substance use disorders."
+      }
+    }, {
+      "-name": "ce",
+      "-fullname": "Continuing Medical Education",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "Primary Care Providers Working in Mental Health Settings: Improving Health Status in Persons with Mental Illness",
+        "link": "http://www.integration.samhsa.gov/workforce/primary-care-provider-curriculum",
+        "description": "Informs providers about the unique aspects of behavioral health settings and opportunities to improve the whole health of people with serious mental illnesses."
+      }
+    }, {
+      "-name": "generaltools",
+      "-fullname": "Tools and Resources",
+      "metadata": {
+        "_pubid": "SMA15-4131",
+        "type": "web",
+        "tag": "general",
+        "title": "TIP 45: Detoxification and Substance Abuse Treatment",
+        "link": "http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=hssamhsatip&part=A85279",
+        "description": "Educates substance abuse counselors and clinicians about detoxification and withdrawal."
+      }
+    }, {
+      "-name": "coding",
+      "-fullname": "ICD-9/ICD-10 Coding",
+      "metadata": {
+        "_pubid": "SMA14-4804",
+        "type": "web",
+        "tag": "general",
+        "title": "Transition to ICD-10: What It Entails and Why It’s Important to Behavioral Health Providers",
+        "link": "http://store.samhsa.gov/product/Transition-to-ICD-10-What-it-Entails-and-Why-It-s-Important-to-Behavioral-Health-Providers/SMA14-4804",
+        "description": "Answers common questions about ICD-10 for mental health and substance abuse services practitioners who are making the transition to the new ICD-10 code sets."
+      }
+    }, {
+      "-name": "coding",
+      "-fullname": "ICD-9/ICD-10 Coding",
+      "metadata": {
+        "_pubid": "",
+        "type": "pdf",
+        "tag": "general",
+        "title": "Classification of Diseases",
+        "link": "http://www.sprc.org/sites/sprc.org/files/library/Classification%20of%20Injuries.pdf",
+        "description": "Explains the primary systems of classifying injuries, including suicides and self-inflicted injuries, so that injuries can be reported and compared uniformly."
+      }
+    }, {
+      "-name": "coding",
+      "-fullname": "ICD-9/ICD-10 Coding",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "Classification of Diseases, Functioning, and Disability, International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM)",
+        "link": "http://www.cdc.gov/nchs/icd/icd10cm.htm",
+        "description": "Provides access to ICD-10-CM, a clinical modification of the classification for morbidity purposes, and announces updates to the implementation and compliance schedule."
+      }
+    }, {
+      "-name": "coding",
+      "-fullname": "ICD-9/ICD-10 Coding",
+      "metadata": {
+        "_pubid": "",
+        "type": "pdf",
+        "tag": "general",
+        "title": "ICD-10-CM Official Guidelines for Coding and Reporting 2014",
+        "link": "http://www.cdc.gov/nchs/data/icd/icd10cm_guidelines_2014.pdf",
+        "description": "Provides required guidelines and additional instruction for coding and reporting using the ICD-10-CM, to be used with the ICD-10-CM published on the National Center for Health Statistics website."
+      }
+    }, {
+      "-name": "coding",
+      "-fullname": "ICD-9/ICD-10 Coding",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "Physician Quality Reporting System (PQRS): About PQRS",
+        "link": "http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/pqrs/index.htm",
+        "description": "Describes the combination of incentive payments and payment adjustments used by CMS to promote reporting of quality information by eligible professionals."
+      }
+    }, {
+      "-name": "coding",
+      "-fullname": "ICD-9/ICD-10 Coding",
+      "metadata": {
+        "_pubid": "",
+        "type": "",
+        "tag": "general",
+        "title": "PQRS Overview",
+        "link": "http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/PQRS/Downloads/PQRS_OverviewFactSheet_2013_08_06.pdf",
+        "description": "Provides facts about the PQRS, which has been using incentive payments to encourage eligible health care professionals to report on specific quality measures."
+      }
+    }, {
+      "-name": "coding",
+      "-fullname": "ICD-9/ICD-10 Coding",
+      "metadata": {
+        "_pubid": "",
+        "type": "pdf",
+        "tag": "general",
+        "title": "Tips and Strategies for Billing for Mental Health Services in a Primary Care Setting",
+        "link": "http://www.sprc.org/sites/sprc.org/files/tipsandstrategiesforbilling.pdf",
+        "description": "Provides tips for designing a billing strategy and improving billing success for mental health services."
+      }
+    }, {
+      "-name": "generaltools",
+      "-fullname": "Tools and Resources",
+      "metadata": {
+        "_pubid": "SMA12-4668",
+        "type": "pdf",
+        "tag": "general",
+        "title": "TAP 32: Clinical Drug Testing in Primary Care",
+        "link": "http://store.samhsa.gov/shin/content//SMA12-4668/SMA12-4668.pdf",
+        "description": "Provides guidance on implementing drug testing in the primary care setting; presents the mechanics of testing and the steps clinicians can take to prepare their staff."
+      }
+    }, {
+      "-name": "generaltools",
+      "-fullname": "Tools and Resources",
+      "metadata": {
+        "_pubid": "SMA13-4212",
+        "type": "web",
+        "tag": "general",
+        "title": "TIP 35: Enhancing Motivation for Change in Substance Abuse Treatment",
+        "link": "http://store.samhsa.gov/shin/content//SMA13-4212/SMA13-4212.pdf and http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=hssamhsatip&part=A61302http://store.samhsa.gov/product/TIP-35-Enhancing-Motivation-for-Change-in-Substance-Abuse-Treatment/SMA13-4212",
+        "description": "Presents guidelines for screening and assessing teens for alcohol abuse and drug abuse problems."
+      }
+    }, {
+      "-name": "generaltools",
+      "-fullname": "Tools and Resources",
+      "metadata": {
+        "_pubid": "SMA14-4816",
+        "type": "pdf",
+        "tag": "general",
+        "title": "TIP 57: Trauma-Informed Care in Behavioral Health Services",
+        "link": "http://store.samhsa.gov/shin/content//SMA14-4816/SMA14-4816.pdf",
+        "description": "Assists behavioral health professionals in understanding the impact and consequences of trauma on those who experience trauma."
+      }
+    }, {
+      "-name": "co-occurring",
+      "-fullname": "Co-Occurring Disorders",
+      "metadata": {
+        "_pubid": "",
+        "type": "pdf",
+        "tag": "general",
+        "title": "Pharmacologic Guidelines for Treating Individuals With Post-Traumatic Stress Disorder and Co-Occurring Opioid Use Disorders (SMA12-4688)",
+        "link": "http://media.samhsa.gov/co-occurring/docs/Pharm_Guidelines_508.pdf",
+        "description": "Offers guidelines for MAT for individuals, particularly veterans, with post-traumatic stress disorder and co-occurring opioid use disorders."
+      }
+    }, {
+      "-name": "co-occurring",
+      "-fullname": "Co-Occurring Disorders",
+      "metadata": {
+        "_pubid": "",
+        "type": "pdf",
+        "tag": "general",
+        "title": "SAMHSA-HRSA Center for Integrated Health Solutions",
+        "link": "http://www.integration.samhsa.gov/",
+        "description": "Offers tools and resources to promote the development of integrated primary and behavioral health services."
+      }
+    }, {
+      "-name": "co-occurring",
+      "-fullname": "Co-Occurring Disorders",
+      "metadata": {
+        "_pubid": "",
+        "type": "pdf",
+        "tag": "general",
+        "title": "Screening Tools",
+        "link": "http://www.integration.samhsa.gov/clinical-practice/screening-tools",
+        "description": "Offers resources, screening forms, and screening tools for identification of mental health and substance use disorders in primary care and other health care settings."
+      }
+    }, {
+      "-name": "co-occurring",
+      "-fullname": "Co-Occurring Disorders",
+      "metadata": {
+        "_pubid": "",
+        "type": "mobile",
+        "tag": "general",
+        "title": "Suicide Safe Mobile App",
+        "link": "https://play.google.com/store/apps/details?id=gov.hhs.samhsa.app.spa&hl=en",
+        "link": "https://itunes.apple.com/us/app/suicide-safe-by-samhsa-suicide/id968468139?mt=8",
+        "link": "",
+        "description": "Equips health care practitioners with information and resources to integrate suicide prevention strategies into their practice and assess risk among their patients."
+      }
+    }, {
+      "-name": "co-occurring",
+      "-fullname": "Co-Occurring Disorders",
+      "metadata": {
+        "_pubid": "",
+        "type": "pdf",
+        "tag": "general",
+        "title": "TIP 42: Substance Abuse Treatment for Persons With Co-Occurring Disorders",
+        "link": "http://store.samhsa.gov/shin/content//SMA13-3992/SMA13-3992.pdf and http://www.ncbi.nlm.nih.gov/books/NBK14528/",
+        "description": "Provides substance abuse treatment providers with updated information and advances in treatment on co-occurring substance use and mental disorders."
+      }
+    }, {
+      "-name": "prescribing",
+      "-fullname": "Opioid Prescribing for Chronic Pain",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "CDC Guideline for Prescribing Opioids for Chronic Pain — United States, 2016",
+        "link": "http://www.cdc.gov/mmwr/volumes/65/rr/rr6501e1.htm?s_cid=rr6501e1_w&utm_source=AETC+NCRC+Mailing+List&utm_campaign=da300da5d9-Updates+from+AETC+Friends+Colleagues+3_21_16&utm_medium=email&utm_term=0_d60e941bc3-da300da5d9-114388549",
+        "description": "Provides recommendations for primary care clinicians who are prescribing opioids for chronic pain outside of active cancer treatment, palliative care, and end-of-life care."
+      }
+    }, {
+      "-name": "prescribing",
+      "-fullname": "Opioid Prescribing for Chronic Pain",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "Safe and Effective Opioid Prescribing for Chronic Pain",
+        "link": "http://www.opioidprescribing.com/overview",
+        "description": "Offers practitioners essential education in how to safely and competently use opioids in the treatment of chronic pain. Sponsored by Boston University School of Medicine, with support from SAMHSA."
+      }
+    }, {
+      "-name": "prescribing",
+      "-fullname": "Opioid Prescribing for Chronic Pain",
+      "metadata": {
+        "_pubid": "SMA13-4671",
+        "type": "pdf",
+        "tag": "general",
+        "title": "TIP 54: Managing Chronic Pain in Adults With or in Recovery From Substance Use Disorders",
+        "link": "http://store.samhsa.gov/shin/content//SMA12-4671/TIP54.pdf",
+        "description": "Equips clinicians with practical guidance and tools for treating chronic pain in adults with a history of substance use disorders."
+      }
+    }, {
+      "-name": "patient",
+      "-fullname": "Patient Resources",
+      "metadata": {
+        "_pubid": "SMA13-4671",
+        "type": "video",
+        "tag": "general",
+        "title": "Healthcare for People Who Use Drugs - How to Talk to the Doctor",
+        "link": "https://www.youtube.com/watch?v=2gLB03WZweo&feature=youtu.be",
+        "description": "Offers tips and examples for how people with substance use disorders can talk with their doctor to get the information and care they need. Produced by the LA Community Health Project with support from SAMHSA."
+      }
+    }, {
+      "-name": "recovery",
+      "-fullname": "Recovery Support",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "Faces and Voices of Recovery",
+        "link": "http://www.facesandvoicesofrecovery.org/",
+        "description": "Supports recovery community organizations and their communities in developing and sustaining a constituency of consequence. Supported in part by SAMHSA."
+      }
+    }, {
+      "-name": "recovery",
+      "-fullname": "Recovery Support",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "MARS Medication-assisted Recovery Services",
+        "link": "http://www.marsproject.org/",
+        "description": ""
+      }
+    }, {
+      "-name": "recovery",
+      "-fullname": "Recovery Support",
+      "metadata": {
+        "_pubid": "",
+        "type": "pdf",
+        "tag": "general",
+        "title": "Motivational Interviewing for Better Health Outcomes",
+        "link": "http://cms.centerforintegratedhealthsolutions.org/images/res/Motivational%20Interviewing%20Sangre%20de%20Cristo%20Presentation%20for%20CIHS_FINAL_Final.pdf",
+        "description": "Online PowerPoint-based training provides an overview of the principles and practice of Motivational Interviewing."
+      }
+    }, {
+      "-name": "recovery",
+      "-fullname": "Recovery Support",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "Recovery and Recovery Support",
+        "link": "http://www.samhsa.gov/recovery",
+        "description": "Provides information on recovery-oriented care and recovery support systems that help people with mental and/or substance use disorders manage their conditions successfully."
+      }
+    }, {
+      "-name": "recovery",
+      "-fullname": "Recovery Support",
+      "metadata": {
+        "_pubid": "SMA11- 4622DVD",
+        "type": "web",
+        "tag": "general",
+        "title": "Recovery Support: Collaboration, Coordination, and Recovery Management",
+        "link": "http://media.recoverymonth.gov/ASF1/Web/RecoveryMonth/2011/June/RecoverySupportShow.asx OR http://store.samhsa.gov/product/Recovery-Support-Collaboration-Coordination-and-Recovery-Management/SMA11-4622DVD",
+        "description": "Examines the elements that contribute to long-term recovery and how advances have led to more effective systems of support."
+      }
+    }, {
+      "-name": "recovery",
+      "-fullname": "Recovery Support",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "SSI/SSDI Outreach, Access and Recovery (SOAR) Online Training",
+        "link": "https://soarworks.prainc.com/course/ssissdi-outreach-access-and-recovery-soar-online-training",
+        "description": "Trains case managers to assist individuals who are homeless or at risk for homelessness to apply for the Social Security Administration’s disability programs. A project of SAMHSA."
+      }
+    }, {
+      "-name": "recovery",
+      "-fullname": "Recovery Support",
+      "metadata": {
+        "_pubid": "SMA09-4454",
+        "type": "pdf",
+        "tag": "general",
+        "title": "What Are Peer Recovery Support Services?",
+        "link": "http://store.samhsa.gov/shin/content/SMA09-4454/SMA09-4454.pdf",
+        "description": "Explains peer recovery support services designed and delivered by people in recovery from alcohol and drug addiction."
+      }
+    }, {
+      "-name": "recovery",
+      "-fullname": "Recovery Support",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "Young People in Recovery",
+        "link": "http://youngpeopleinrecovery.org/",
+        "description": "Aims to influence public policy, making it easier for youth to find and maintain their recovery from addiction. Supported in part by SAMHSA."
+      }
+    }, {
+      "-name": "special",
+      "-fullname": "Special Populations",
+      "metadata": {
+        "_pubid": "SMA12-4104",
+        "type": "pdf",
+        "tag": "general",
+        "title": "A Provider’s Introduction to Substance Abuse Treatment for Lesbian, Gay, Bisexual, and Transgender Individuals",
+        "link": "http://store.samhsa.gov/shin/content//SMA12-4104/SMA12-4104.pdf",
+        "description": "Informs clinicians and administrators about substance abuse treatment approaches that are sensitive to lesbian, gay, bisexual, and transgender patients."
+      }
+    }, {
+      "-name": "special",
+      "-fullname": "Special Populations",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "American Indian and Alaska Native: Tribal Affairs",
+        "link": "http://www.samhsa.gov/behavioral-health-equity/ai-an",
+        "description": "Provides national survey reports, agency and federal initiatives, and related behavioral health resources."
+      }
+    }, {
+      "-name": "special",
+      "-fullname": "Special Populations",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "National American Indian and Alaska Native (AI & AN) Addiction Technology Transfer Center (ATTC)",
+        "link": "http://attcnetwork.org/national-focus-areas/?rc=americanindian",
+        "description": "Provides American Indians and Alaska Natives with access to high-quality, evidence-based, culturally appropriate, self-directed behavioral health services and recovery supports."
+      }
+    }, {
+      "-name": "special",
+      "-fullname": "Special Populations",
+      "metadata": {
+        "_pubid": "SMA12-4079",
+        "type": "web",
+        "tag": "general",
+        "title": "TIP 31: Screening and Assessing Adolescents for Substance Use Disorders",
+        "link": "http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=hssamhsatip&part=A54841",
+        "description": "Presents guidelines for screening and assessing teens for alcohol abuse and drug abuse problems."
+      }
+    }, {
+      "-name": "special",
+      "-fullname": "Special Populations",
+      "metadata": {
+        "_pubid": "SMA14-4736",
+        "type": "pdf",
+        "tag": "general",
+        "title": "TIP 56: Addressing the Specific Behavioral Health Needs of Men",
+        "link": "http://store.samhsa.gov/shin/content//SMA14-4736/SMA14-4736.pdf",
+        "description": "Addresses the specific treatment needs of adult men with substance use disorders, such as patterns of initiation of substance use and specific treatment issues and strategies."
+      }
+    }, {
+      "-name": "special",
+      "-fullname": "Special Populations",
+      "metadata": {
+        "_pubid": "SMA15-4849",
+        "type": "pdf",
+        "tag": "general",
+        "title": "TIP 59: Improving Cultural Competence",
+        "link": "http://store.samhsa.gov/shin/content//SMA14-4849/SMA14-4849.pdf",
+        "description": "Assists professional care practitioners and administrators in understanding the role of culture in the delivery of substance abuse and mental health services."
+      }
+    }, {
+      "-name": "websites",
+      "-fullname": "Websites",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "Substance Abuse and Mental Health Services Administration, Medication-Assisted Treatment (SAMHSA MAT)",
+        "link": "http://www.samhsa.gov/medication-assisted-treatment",
+        "description": ""
+      }
+    }, {
+      "-name": "websites",
+      "-fullname": "Websites",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "Addiction Technology Transfer Center Network (ATTC)",
+        "link": "http://www.nattc.org/home/",
+        "description": ""
+      }
+    }, {
+      "-name": "websites",
+      "-fullname": "Websites",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "REMS@FDA (Risk Evaluation and Mitigation Strategies)",
+        "link": "http://www.accessdata.fda.gov/scripts/cder/rems/index.cfm",
+        "description": ""
+      }
+    }, {
+      "-name": "websites",
+      "-fullname": "Websites",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "general",
+        "title": "Providers’ Clinical Support System for Medication-Assisted Treatment (PCSS-MAT)",
+        "link": "http://pcssmat.org",
+        "description": ""
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA15-4907",
+        "type": "pdf",
+        "tag": "alcohol",
+        "title": "Medication for the Treatment of Alcohol Use Disorder: A Brief Guide",
+        "link": "http://store.samhsa.gov/shin/content//SMA15-4907/SMA15-4907.pdf",
+        "description": "Summarizes approved medications for the treatment of alcohol abuse and discusses screening and patient assessment, treatment planning, and patient monitoring."
+      }
+    }, {
+      "-name": "tools",
+      "-fullname": "Tools for Practitioners",
+      "metadata": {
+        "_pubid": "SMA15-4907POCKETGUID",
+        "type": "pdf",
+        "tag": "alcohol",
+        "title": "Medication for the Treatment of Alcohol Use Disorder: Pocket Guide",
+        "link": "http://store.samhsa.gov/shin/content//SMA15-4907/SMA15-4907.pdf",
+        "description": "Summarizes approved medications for the treatment of alcohol abuse and discusses screening and patient assessment, treatment planning, and patient monitoring."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "alcohol",
+        "title": "Alcohol, Tobacco, and Other Drugs (ATOD)",
+        "link": "http://www.samhsa.gov/atod/alcohol",
+        "description": "Get the facts about alcohol and the impact abusing alcohol can have on people."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "alcohol",
+        "title": "Medication and Counseling Treatment",
+        "link": "http://www.samhsa.gov/medication-assisted-treatment/treatment",
+        "description": "Medication-assisted treatment (MAT) is the use of medications with counseling and behavioral therapies to treat substance use disorders and prevent opioid overdose."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "alcohol",
+        "title": "Naltrexone",
+        "link": "http://www.samhsa.gov/medication-assisted-treatment/treatment/naltrexone#naltrexone-for-alcohol",
+        "description": "Find information about naltrexone, a medication approved by the Food and Drug Administration (FDA) to treat alcohol use disorders."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "alcohol",
+        "title": "Treatment for Substance Use Disorders - Alcohol",
+        "link": "http://www.samhsa.gov/treatment/substance-use-disorders#alcohol",
+        "description": "Learn about the different kinds of treatments and services that are effective in helping people with alcohol use disorders."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "tag": "alcohol",
+        "title": "Underage Drinking: Myths vs. Facts. Pre-Teen Alcohol Prevention Brochure",
+        "link": "http://www.stopalcoholabuse.gov/media/pdf/MythsFactsBrochure_508compliant.pdf",
+        "description": "Corrects common myths teens and pre-teens may hold about the prevalence of alcohol use and the effects of alcohol on the body and brain."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "tobacco",
+        "title": "SAMHSA-HRSA Center for Integrated Health Solutions: Tobacco Cessation",
+        "link": "http://www.integration.samhsa.gov/health-wellness/wellness-strategies/tobacco-cessation-2",
+        "description": "Offers resources for tobacco cessation programs and related information."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "tobacco",
+        "title": "Tips for Teens: The Truth About Tobacco",
+        "link": "www.integration.samhsa.gov/health-wellness/wellness-strategies/tobacco-cessation-2",
+        "description": "Offers resources for tobacco cessation programs and related information."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "tobacco",
+        "title": "Tobacco",
+        "link": "http://www.samhsa.gov/atod/tobacco",
+        "description": "Provides the facts on the use of tobacco, including cigarettes, chewing tobacco, snuff, cigars, pipe tobacco, and electronic cigarettes."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "SMA11-4636CLIN",
+        "type": "pdf",
+        "tag": "tobacco",
+        "title": "Tobacco Use Cessation During Substance Abuse Treatment Counseling – SAMHSA Advisory, March 2011",
+        "link": "http://store.samhsa.gov/shin/content/SMA11-4636CLIN/SMA11-4636CLIN.pdf",
+        "description": "Discusses screening and effective treatment approaches to quitting, including cessation medications, and practical and supportive counseling."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "alcohol",
+        "title": "Treatments for Substance Use Disorders",
+        "link": "http://www.samhsa.gov/treatment/substance-use-disorders",
+        "description": "Learn about the different kinds of treatments and services that are effective in helping people with substance use disorders, including tobacco."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "web",
+        "tag": "alcohol",
+        "title": "FDA 101: Smoking Cessation Products",
+        "link": "http://www.fda.gov/ForConsumers/ConsumerUpdates/ucm198176.htm",
+        "description": "Provides consumers with a list of smoking cessation products that are regulated by the FDA."
+      }
+    }, {
+      "-name": "other",
+      "-fullname": "Other Resources",
+      "metadata": {
+        "_pubid": "",
+        "type": "pdf",
+        "tag": "alcohol",
+        "title": "Smoking Cessation Medications",
+        "link": "https://www.nlm.nih.gov/medlineplus/ency/article/007439.htm",
+        "description": "A guide to medicines health care practitioners may prescribe to assist with smoking cessation."
+      }
+    }]
+  }
+}
